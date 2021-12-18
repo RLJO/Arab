@@ -2,3 +2,8 @@
 	path = NewRL/tmco12
 	url = git@github.com:NewRL/tmco12.git
 	branch = main
+
+[submodule "RLJO/Car-Rental"]
+	path = RLJO/Car-Rental
+	url = git@github.com:RLJO/Car-Rental.git
+	branch = live
