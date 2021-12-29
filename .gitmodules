@@ -1,0 +1,4 @@
+[submodule "androideInteligos/Ethail"]
+	path = androideInteligos/Ethail
+	url = git@github.com:androideInteligos/Ethail.git
+	branch = master
