@@ -7,3 +7,8 @@
 	path = RLJO/Car-Rental
 	url = git@github.com:RLJO/Car-Rental.git
 	branch = live
+
+[submodule "RLJO/r12"]
+	path = RLJO/r12
+	url = git@github.com:RLJO/r12.git
+	branch = Main2
