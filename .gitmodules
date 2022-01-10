@@ -2,3 +2,8 @@
 	path = RLJO/r12
 	url = git@github.com:RLJO/r12.git
 	branch = Main2
+
+[submodule "RLJO/Royalline"]
+	path = RLJO/Royalline
+	url = git@github.com:RLJO/Royalline.git
+	branch = Prod
