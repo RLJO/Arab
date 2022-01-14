@@ -12,3 +12,8 @@
 	path = RLJO/r12
 	url = git@github.com:RLJO/r12.git
 	branch = Main2
+
+[submodule "akretion/logistics-center"]
+	path = akretion/logistics-center
+	url = git@github.com:akretion/logistics-center.git
+	branch = 12.0
